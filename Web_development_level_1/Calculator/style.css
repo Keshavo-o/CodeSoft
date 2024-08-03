@@ -2,12 +2,18 @@ body
 {
     background-color: black;
 }
+.oswald_a {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
 .calculator_body
 {
     background-color: darkslategray;
     height: 530px;
     margin-left: 500px;
-    margin-right: 500px;
+    margin-right: 485px;
     margin-top: 120px;
     border-radius: 30px;
 }
